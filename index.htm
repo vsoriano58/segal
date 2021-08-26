@@ -1,0 +1,95 @@
+<!-- Vicent Soriano
+     25 de novembre de 2013
+-->
+
+
+<!doctype html">
+
+<html>
+<head>
+<meta charset="utf-8">
+<title>Micael Segal sprite</title>
+<script language="JavaScript">
+function init(){
+   document.body.style.backgroundColor = "#003366";
+}
+</script>
+
+<STYLE TYPE="text/css">
+body {
+	text-align: center;
+}
+
+#contenedor {
+	color: #ff0000;
+	font-size: 20px;
+	padding: 10px;
+	width: 262px;
+	margin: 0px auto;
+}
+
+
+#layerext {
+	padding: 0px;
+	margin: 10px;
+	border: 5px solid;
+	border-color: #007af4 #00172f #00172f #007af4;
+	background-color: #003366;
+	float:left;
+}
+
+#layerint {
+	text-align: center;
+	padding: 20px;
+	border: 5px solid;
+	border-color: #00172f #007af4  #007af4 #00172f;
+	background-color: #ffffff;
+	margin: 10px;
+}
+.boton {
+	margin-right: 10px;
+	color: #fffff;
+	border: #ffffff 1px solid;
+	padding: 2px 6px 2px 6px;
+}
+
+h1{
+color: #ff0000;
+	font-size: 40px;
+	padding: 70px;
+	width: 262px;
+	margin: 0px auto;
+}
+
+</STYLE>
+
+<script language="JavaScript">
+cuadro = "cuadro" + Math.floor((Math.random()*10)+1)+ ".htm";
+ancla = '<a href="' + cuadro +'">';
+
+</script>
+
+</head>
+
+<body onLoad="init()">
+<h1>Galería Segal</h1>
+<div id="contenedor">
+	<div id="LayerExt">
+  		<div id="LayerInt" STYLE="position:relative;">
+			<script language="JavaScript">
+   			document.write(ancla + '<img src="img0.jpg" width="191" height="250" border="0"></a>');
+		</script>	
+  		</div>
+	</div>
+	<div>
+		<p class="LayerRotulo">
+			Micael Segal
+		</p>
+	</div>
+</div>
+
+<script language="JavaScript" src="js/degradado.js">
+//alert("5");
+</script>
+</body>
+</html>

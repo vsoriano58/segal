@@ -1,0 +1,65 @@
+<!-- Autor: Vicent Soriano
+     25 de novembre de 2013
+	 
+	 Galería Segal
+	 Autor: Micael Segal
+-->
+<!doctype html>
+<html>
+<head>
+    <title>Micael Segal. "Bésame en el pezón"</title>
+    <link href="azul.css" type="text/css" rel="stylesheet" />
+	<script language="JavaScript" src="general.js"></script>
+	
+	<script language="JavaScript">
+		// en general.js
+		// Autor = "Micael Segal"
+		// NCuadros = 11
+
+		N = 1
+
+		// Precio = " 14.000 Euros"
+		Titulo = '"Bésame en el pezón" (ól./lz.) '
+		Autor = "MICAEL: " + Titulo
+		// Descripcion = Autor + ": " + '"' + Titulo + '"' + Precio
+
+		Archivo = "img" +N+ ".jpg"
+		Precio = "50.000 Euros" 
+		</script>
+
+</head>
+<body>
+	<div id="menu_cuadros">
+		<script language="JavaScript">
+			var NCuadros=10;
+			for(i=1; i<=NCuadros; i++){
+			str = "<A class='menuButton' href='cuadro" +i+ ".htm" +"'>" + "<img src='img"+i+"m.jpg'>" + "</A>"
+			document.write(str)
+			document.write(" ")
+			}
+			str = "<A class='menuButton' href='http://www.google.es'><img src='img11m.jpg'>" + "</A>"
+			document.write(str)
+			document.write(" ")
+		</script>
+	</div>
+	
+	<div id="LayerExt1">
+		<div id="LayerInt1" >
+			<img src=" img1.jpg">
+     	</div>
+   	</div>
+	
+	<div>
+    <span class="cuadroSelec">
+      <script language="JavaScript">document.write(N)</script>
+    </span>
+    <span class="Autor">
+      <script language="JavaScript">document.write(Autor)</script>
+    </span>
+   
+</div>
+	
+	
+	
+</body>
+</html>

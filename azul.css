@@ -1,0 +1,250 @@
+
+body {
+	text-align:center;
+	font-size: 8pt;
+	font-family: verdana, arial, sans-serif;
+	color: #ffffff; 
+	background-color: #003366;
+}
+
+
+	
+#LayerExt1 {
+	width:381px;
+	height:470px;
+	background-color: #003366;
+	padding: 20px;
+	border: 5px solid;
+	border-color: #007af4 #00172f #00172f #007af4;
+	margin: 50px auto;
+}
+
+#LayerInt1 {
+	width:331px;
+	height:420px;
+	padding: 20px;		
+	border: 5px solid;
+	border-color: #00172f #007af4  #007af4 #00172f;
+	background-color: #ffffff;
+}
+
+#LayerExt2 {
+	width:331px;
+	height:470px;
+	background-color: #003366;
+	padding: 20px;
+	border: 5px solid;
+	border-color: #007af4 #00172f #00172f #007af4;
+	margin: 50px auto;
+}
+
+#LayerInt2 {
+	width:281px;
+	height:420px;
+	padding: 20px;		
+	border: 5px solid;
+	border-color: #00172f #007af4  #007af4 #00172f;
+	background-color: #ffffff;
+}
+
+#LayerExt3 {
+	width:616px;
+	height:470px;
+	background-color: #003366;
+	padding: 20px;
+	border: 5px solid;
+	border-color: #007af4 #00172f #00172f #007af4;
+	margin: 50px auto;
+}
+
+#LayerInt3 {
+	width:566px;
+	height:420px;
+	padding: 20px;		
+	border: 5px solid;
+	border-color: #00172f #007af4  #007af4 #00172f;
+	background-color: #ffffff;
+}
+
+#LayerExt4 {
+	width:625px;
+	height:470px;
+	background-color: #003366;
+	padding: 20px;
+	border: 5px solid;
+	border-color: #007af4 #00172f #00172f #007af4;
+	margin: 50px auto;
+}
+
+#LayerInt4 {
+	width:575px;
+	height:420px;
+	padding: 20px;		
+	border: 5px solid;
+	border-color: #00172f #007af4  #007af4 #00172f;
+	background-color: #ffffff;
+}
+
+#LayerExt5 {
+	width:593px;
+	height:470px;
+	background-color: #003366;
+	padding: 20px;
+	border: 5px solid;
+	border-color: #007af4 #00172f #00172f #007af4;
+	margin: 50px auto;
+}
+
+#LayerInt5 {
+	width:543px;
+	height:420px;
+	padding: 20px;		
+	border: 5px solid;
+	border-color: #00172f #007af4  #007af4 #00172f;
+	background-color: #ffffff;
+}
+
+
+#LayerExt6 {
+	width:388px;
+	height:470px;
+	background-color: #003366;
+	padding: 20px;
+	border: 5px solid;
+	border-color: #007af4 #00172f #00172f #007af4;
+	margin: 50px auto;
+}
+
+#LayerInt6 {
+	width:338px;
+	height:420px;
+	padding: 20px;		
+	border: 5px solid;
+	border-color: #00172f #007af4  #007af4 #00172f;
+	background-color: #ffffff;
+}
+
+#LayerExt7 {
+	width:703px;
+	height:470px;
+	background-color: #003366;
+	padding: 20px;
+	border: 5px solid;
+	border-color: #007af4 #00172f #00172f #007af4;
+	margin: 50px auto;
+}
+
+#LayerInt7 {
+	width:653px;
+	height:420px;
+	padding: 20px;		
+	border: 5px solid;
+	border-color: #00172f #007af4  #007af4 #00172f;
+	background-color: #ffffff;
+}
+
+#LayerExt8 {
+	width:475px;
+	height:470px;
+	background-color: #003366;
+	padding: 20px;
+	border: 5px solid;
+	border-color: #007af4 #00172f #00172f #007af4;
+	margin: 50px auto;
+}
+
+#LayerInt8 {
+	width:425px;
+	height:420px;
+	padding: 20px;		
+	border: 5px solid;
+	border-color: #00172f #007af4  #007af4 #00172f;
+	background-color: #ffffff;
+}
+
+#LayerExt9 {
+	width:264px;
+	height:470px;
+	background-color: #003366;
+	padding: 20px;
+	border: 5px solid;
+	border-color: #007af4 #00172f #00172f #007af4;
+	margin: 50px auto;
+}
+
+#LayerInt9 {
+	width:214px;
+	height:420px;
+	padding: 20px;		
+	border: 5px solid;
+	border-color: #00172f #007af4  #007af4 #00172f;
+	background-color: #ffffff;
+}
+
+#LayerExt10 {
+	width:441px;
+	height:470px;
+	background-color: #003366;
+	padding: 20px;
+	border: 5px solid;
+	border-color: #007af4 #00172f #00172f #007af4;
+	margin: 50px auto;
+}
+
+#LayerInt10 {
+	width:391px;
+	height:420px;
+	padding: 20px;		
+	border: 5px solid;
+	border-color: #00172f #007af4  #007af4 #00172f;
+	background-color: #ffffff;
+}
+
+
+
+#menu_cuadros {
+	/*TEXT-ALIGN: center;*/
+	width:750px;
+	height:50px;
+	margin: 20px auto;
+	/*display:block;*/
+	/*border:2px solid;*/
+}
+
+
+#menu_cuadros .menuButton {
+	display:block;
+	/*height:200px;*/
+	/*width:60px;*/
+	padding: 2px 6px 2px 6px;
+	MARGIN: 5px;
+	COLOR: #DFE6EC;
+	BORDER: #DFE6EC 1px solid;
+	TEXT-DECORATION: none;
+	BORDER-COLOR: #007AF4 #00172F #00172F #007AF4;
+	vertical-align: middle;
+	float:left;
+	
+	
+}
+/*
+DIV.menuBar A.menuButton {
+	PADDING: 2px 6px 2px 6px;
+	MARGIN: 1px;
+	COLOR: #DFE6EC;
+	BORDER: #DFE6EC 1px solid;
+	TEXT-DECORATION: none;
+	BORDER-COLOR: #007AF4 #00172F #00172F #007AF4;
+	vertical-align: middle
+}
+
+div.menuBar {
+	PADDING: 4px 2px 4px 2px;
+	height:200px;
+}
+*/
+#menu_cuadros .menuButton:hover {
+	COLOR: #FF0000;
+	BORDER: #DFE6EC 1px solid;
+	BORDER-COLOR: #00172F #007AF4  #007AF4 #00172F;
+}
